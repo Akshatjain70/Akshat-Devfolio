@@ -28,7 +28,7 @@ import modernoLogo from './assets/work-logo/moderno.webp';
 import tikTacToeLogo from './assets/work-logo/tik-tac-toe.png';
 import todoAppLogo from './assets/work-logo/todo-app.png';
 import verseLogo from './assets/work-logo/verse.jpg';
-import wheatherApp from './assets/work-logo/wheatherApp.jpg'; // ⚠ Check the filename exactly
+import wheatherApp from'./assets/work-logo/WheatherApp.jpg';
 
 // 🧩 SKILLS DATA
 export const SkillsInfo = [
